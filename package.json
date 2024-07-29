@@ -1,0 +1,22 @@
+{
+  "name": "am-toggle-dropdown",
+  "version": "1.0.0",
+  "description": "JS utility for toggling the visibility of dropdown menus based on user interactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelghani-moussaid/toggle-dropdown.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "abdelghani-moussaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelghani-moussaid/toggle-dropdown/issues"
+  },
+  "homepage": "https://github.com/abdelghani-moussaid/toggle-dropdown#readme"
+}
